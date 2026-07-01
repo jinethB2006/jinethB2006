@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Jineth 👋
 
-<!--
-**jinethB2006/jinethB2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a B.Tech Artificial Intelligence and Data Science student at Bannari Amman Institute of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong interest in software development, Artificial Intelligence, and Machine Learning. I enjoy building practical projects, solving programming problems, and continuously learning new technologies to strengthen my technical skills.
+
+---
+
+## 💻 Technical Skills
+
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Software Development
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+## 🚀 Projects
+
+- TrackMySpend – Expense Tracking Web Application
+- AI-Driven Industrial Pollution Hotspot Detection *(In Progress)*
+
+More projects coming soon...
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: linkedin.com/in/jineth-b-a7631032b
+- Gmail: jineth200655@gmail.com
