@@ -35,8 +35,6 @@ I have a strong interest in software development, Artificial Intelligence, and M
 - TrackMySpend – Expense Tracking Web Application
 - AI-Driven Industrial Pollution Hotspot Detection *(In Progress)*
 
-More projects coming soon...
-
 ---
 
 ## 📫 Connect with Me
