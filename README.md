@@ -4,7 +4,7 @@
 
 I'm a B.Tech Artificial Intelligence and Data Science student at Bannari Amman Institute of Technology.
 
-I have a strong interest in software development, Artificial Intelligence, and Machine Learning. I enjoy building practical projects, solving programming problems, and continuously learning new technologies to strengthen my technical skills.
+I have a strong interest in Artificial Intelligence, Machine Learning and software development. I enjoy building practical projects, solving programming problems, and continuously learning new technologies to strengthen my technical skills.
 
 ---
 
